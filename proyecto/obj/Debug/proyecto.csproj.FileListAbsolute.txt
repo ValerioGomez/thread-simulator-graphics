@@ -1,0 +1,24 @@
+C:\Users\vales\Escritorio\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\vales\Escritorio\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\vales\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\vales\Escritorio\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\vales\Escritorio\proyecto\proyecto\obj\Debug\proyecto.MainForm.resources
+C:\Users\vales\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\bin\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\bin\Debug\proyecto.pdb
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\obj\Debug\proyecto.MainForm.resources
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\obj\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto - copia\proyecto\obj\Debug\proyecto.pdb
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\bin\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\bin\Debug\proyecto.pdb
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\obj\Debug\proyecto.MainForm.resources
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\obj\Debug\proyecto.exe
+C:\Users\vales\Escritorio\proyecto - copia - copia\proyecto\obj\Debug\proyecto.pdb
